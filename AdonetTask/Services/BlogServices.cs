@@ -57,7 +57,7 @@ namespace AdonetTask.Services
         public void Update(string name,string surname,  int id)
         {
 
-            SqlHelpers.Exec($"UPDATE dbo.Blogs SET Title ={name}, Description = {surname} WHERE id={id}");
+            SqlHelpers.Exec($"UPDATE dbo.Blogs SET Title =N'{name}', Description = N'{surname}' WHERE id={id}");
 
 
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKHxJ3xcV5ImqOvNiIxzRnA+RmhfLUvZ4pzcjEb2E3W/krBuzB/BiRm7lDrvD3ahbMMSuU2M2lh9UWzkiFkLoQ==",
+  "dgSpecHash": "eCke/gHcuLlLMihFgUUYvNhA+51wDxHqLNwDpw1NpBi8Lm9y1KY0gxdrbsmLTz2JlPXpiaxSKh2t+w0A00fenQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sefer\\OneDrive\\Desktop\\In_Uni\\AdonetTask\\AdonetTask\\AdonetTask.csproj",
+  "projectFilePath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\AdonetTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sefer\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\sefer\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

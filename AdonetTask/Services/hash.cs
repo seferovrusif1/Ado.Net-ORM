@@ -7,25 +7,9 @@ using System.Security.Cryptography;
 
 namespace AdonetTask.Services
 {
-    class Program
+    public static class Hash
     {
-        static string key { get; set; } = "A!9HHhi%XjjYY4YP2@Nob009X";
-
-        static void Main(string[] args)
-        {
-            var text = "This is a test string";
-            Console.WriteLine(text);
-
-            var cipher = Encrypt(text);
-            Console.WriteLine(cipher);
-
-            text = Decrypt(cipher);
-            Console.WriteLine(text);
-
-            Console.ReadKey();
-        }
-
-        public static string Encrypt(string text)
+       public static string Encrypt(string text,string key)
         {
             using (var md5 = new MD5CryptoServiceProvider())
             {
@@ -45,24 +29,7 @@ namespace AdonetTask.Services
             }
         }
 
-        public static string Decrypt(string cipher)
-        {
-            using (var md5 = new MD5CryptoServiceProvider())
-            {
-                using (var tdes = new TripleDESCryptoServiceProvider())
-                {
-                    tdes.Key = md5.ComputeHash(UTF8Encoding.UTF8.GetBytes(key));
-                    tdes.Mode = CipherMode.ECB;
-                    tdes.Padding = PaddingMode.PKCS7;
 
-                    using (var transform = tdes.CreateDecryptor())
-                    {
-                        byte[] cipherBytes = Convert.FromBase64String(cipher);
-                        byte[] bytes = transform.TransformFinalBlock(cipherBytes, 0, cipherBytes.Length);
-                        return UTF8Encoding.UTF8.GetString(bytes);
-                    }
-                }
-            }
-        }
+
     }
 }

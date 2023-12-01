@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sefer\\OneDrive\\Desktop\\In_Uni\\AdonetTask\\AdonetTask\\AdonetTask.csproj",
+      "projectUniqueName": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\AdonetTask.csproj",
       "projectName": "AdonetTask",
-      "projectPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\In_Uni\\AdonetTask\\AdonetTask\\AdonetTask.csproj",
+      "projectPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\AdonetTask.csproj",
       "packagesPath": "C:\\Users\\sefer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\In_Uni\\AdonetTask\\AdonetTask\\obj\\",
+      "outputPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sefer\\AppData\\Roaming\\NuGet\\NuGet.Config",

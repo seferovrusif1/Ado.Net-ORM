@@ -16,6 +16,7 @@ namespace AdonetTask
             Blogs blogg;
             string Name, Surname,Password,UserName;
             bool iscontinue = true;
+            int currentUserId = -1;
             while (iscontinue)
             {
                 Console.WriteLine("1. Register\n2. Login\n3. GetAllBlogs\n4. Get blogs by id \n5. Create Blog\n6. Delete\n7. update");
@@ -45,9 +46,13 @@ namespace AdonetTask
                         Password = Console.ReadLine();
                         Console.WriteLine("UserName: ");
                         UserName = Console.ReadLine();
-                        if (!UserServices.Login(UserName, Password))
+                        if (UserServices.Login(UserName, Password)==-1)
                         {
                             Console.WriteLine("Login ugursuzdur");
+                        }
+                        else
+                        {
+                             currentUserId = UserServices.Login(UserName, Password);
                         }
                         break;
                     case "3":
@@ -65,20 +70,26 @@ namespace AdonetTask
 
                         break;
                     case "5":
-                        Console.WriteLine("Title: ");
-                        Name = Console.ReadLine();
-                        Console.WriteLine("Description: ");
-                        Surname = Console.ReadLine();
-                        Console.WriteLine("UserId: ");
-                        userid=Convert.ToInt32(Console.ReadLine());
-
-                        blog = new Blogs()
+                        if (currentUserId != -1)
                         {
-                            Title = Name,
-                            Description = Surname,
-                            UserId = userid
-                        };
+                            Console.WriteLine("Title: ");
+                            Name = Console.ReadLine();
+                            Console.WriteLine("Description: ");
+                            Surname = Console.ReadLine();
+                            userid = currentUserId;
+
+                            blog = new Blogs()
+                            {
+                                Title = Name,
+                                Description = Surname,
+                                UserId = userid
+                            };
                         bs.Create(blog);
+                        }
+                        else
+                        {
+                            Console.WriteLine("once Login olun!!");
+                        }
                         break;
                         case "6":
 
@@ -87,12 +98,12 @@ namespace AdonetTask
                         bs.Delete(b);
                         break;
                     case "7":
+                        Console.WriteLine("Id: ");
+                        id = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("Title: ");
                         Name = Console.ReadLine();
                         Console.WriteLine("Description: ");
                         Surname = Console.ReadLine();
-                        Console.WriteLine("Id: ");
-                        id = Convert.ToInt32(Console.ReadLine());
                         
                         bs.Update(Name,Surname,id);
                         break;

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\services\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\services\\hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\services\\blogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\services\\blogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\services\\ibaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\services\\ibaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\models\\blogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|c:\\users\\sefer\\onedrive\\desktop\\ado.net orm\\adonettask\\helpers\\sqlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03A8E09A-EB33-44AB-A879-AA57EC1671D4}|AdonetTask\\AdonetTask.csproj|solutionrelative:adonettask\\helpers\\sqlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hash.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\hash.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Services\\hash.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\hash.cs",
+              "RelativeToolTip": "AdonetTask\\Services\\hash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:34.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogServices.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\BlogServices.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Services\\BlogServices.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\BlogServices.cs",
+              "RelativeToolTip": "AdonetTask\\Services\\BlogServices.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDsAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Program.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Program.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Program.cs",
+              "RelativeToolTip": "AdonetTask\\Program.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAQwGsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blogs.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Models\\Blogs.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Models\\Blogs.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Models\\Blogs.cs",
+              "RelativeToolTip": "AdonetTask\\Models\\Blogs.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Models\\User.cs",
+              "RelativeToolTip": "AdonetTask\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\UserServices.cs",
+              "RelativeToolTip": "AdonetTask\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\IBaseServices.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Services\\IBaseServices.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Services\\IBaseServices.cs",
+              "RelativeToolTip": "AdonetTask\\Services\\IBaseServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Helpers\\SqlHelpers.cs",
+              "RelativeDocumentMoniker": "AdonetTask\\Helpers\\SqlHelpers.cs",
+              "ToolTip": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\Helpers\\SqlHelpers.cs",
+              "RelativeToolTip": "AdonetTask\\Helpers\\SqlHelpers.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T18:38:35.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

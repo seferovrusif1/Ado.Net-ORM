@@ -58,9 +58,10 @@ C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTa
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.AssemblyInfoInputs.cache
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.AssemblyInfo.cs
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.csproj.CoreCompileInputs.cache
-C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.csproj.CopyComplete
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.dll
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\refint\AdonetTask.dll
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.pdb
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.genruntimeconfig.cache
 C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\ref\AdonetTask.dll
+C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.sourcelink.json
+C:\Users\sefer\OneDrive\Desktop\ADO.Net ORM\AdonetTask\obj\Debug\net6.0\AdonetTask.csproj.Up2Date

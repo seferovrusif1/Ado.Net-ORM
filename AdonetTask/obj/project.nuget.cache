@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eCke/gHcuLlLMihFgUUYvNhA+51wDxHqLNwDpw1NpBi8Lm9y1KY0gxdrbsmLTz2JlPXpiaxSKh2t+w0A00fenQ==",
+  "dgSpecHash": "i8b73Tneomo=",
   "success": true,
   "projectFilePath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\AdonetTask.csproj",
   "expectedPackageFiles": [
@@ -14,5 +14,18 @@
     "C:\\Users\\sefer\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\sefer\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "projectPath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\AdonetTask.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\sefer\\OneDrive\\Desktop\\ADO.Net ORM\\AdonetTask\\AdonetTask.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
